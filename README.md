@@ -56,3 +56,5 @@
 
 ---
 
+
+## Deployed on Vercel = https://mnnit-insights.vercel.app/
